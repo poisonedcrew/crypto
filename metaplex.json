@@ -1,7 +1,7 @@
 {
   "name": "META COIN", 
   "symbol": "METAAI",
-  "uri": "TOKEN_URI",
+  "uri": "https://raw.githubusercontent.com/poisonedcrew/crypto/main/metaplex.json",
   "sellerFeeBasisPoints": 0,
   "creators": null,
   "collection": null,
